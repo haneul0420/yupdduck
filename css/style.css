@@ -658,6 +658,7 @@ footer .inner .wrap .footembl .emblem .emblemtext .emblemtitle {
     right: 30px;
     text-align: center;
     background-color: #fff;
+    z-index: 999;
 }
 .movebokkeum a img {
     max-width: 90%;
